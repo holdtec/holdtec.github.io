@@ -1,27 +1,19 @@
 # SUMMARY
 
-
-
 [introduction](README.md)
 
 ### 快速入门
 
 - [引言](./manual/user/about.md)
-  - [安装与注册](./manual/user/install.md)
-
+- [安装与注册](./manual/user/install.md)
 - [快速开始](./manual/user/quick-start.md)
 
 ### 账本管理
 
 - [账本管理](./manual/user/ledger-management.md)
-
 - [账户管理](./manual/user/account-management.md)
-
 - [收支类别管理](./manual/user/category-management.md)
-
 - [图表与数据分析](./manual/user/chart-and-analyses.md)
-
-  
 
 ### 角色与权限
 
@@ -35,18 +27,15 @@
 - [高级功能](./manual/user/advanced.md)
 - [付费功能](./manual/user/charged-item.md)
 
-
-
 ---
 
 ### FAQ
 
 - [常见问题](./manual/user/Q&A.md)
-  
-### 更新日志
-- [更新日志](./manual/user/version-logs.md)
 
-  
+### 更新日志
+
+- [更新日志](./manual/user/version-logs.md)
 
 ---
 
